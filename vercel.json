@@ -1,0 +1,39 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/files/OCM%20Homepage.html",
+      "permanent": false
+    },
+    {
+      "source": "/about",
+      "destination": "/files/OCM%20About.html",
+      "permanent": false
+    },
+    {
+      "source": "/homepage",
+      "destination": "/files/OCM%20Homepage.html",
+      "permanent": false
+    },
+    {
+      "source": "/insurance",
+      "destination": "/files/OCM%20Insurance.html",
+      "permanent": false
+    },
+    {
+      "source": "/partnership",
+      "destination": "/files/OCM%20Partnership.html",
+      "permanent": false
+    },
+    {
+      "source": "/patients",
+      "destination": "/files/OCM%20Patients.html",
+      "permanent": false
+    },
+    {
+      "source": "/telemedicine",
+      "destination": "/files/OCM%20Telemedicine.html",
+      "permanent": false
+    }
+  ]
+}
